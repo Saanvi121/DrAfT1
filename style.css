@@ -1,0 +1,26 @@
+body
+{
+    background-color: aqua;
+}
+
+.headingShade
+{
+    background-color:fuchsia;
+    color: honeydew;
+    width: 80%;
+    font-size:xx-large;
+    font-family: 'Chango', cursive;
+}
+.name_of_objects, #result_object_name  , #result_object_accuracy
+  {
+    color: rgb(255, 94, 0);
+  }
+
+  #camera
+  {
+      width: 270px;
+      height: 270px;
+      border-color: hotpink;
+      border-style: outset;
+      box-shadow:-8px 8px 10px hotpink;
+  }
